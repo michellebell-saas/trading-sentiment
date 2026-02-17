@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "seed:assets": "node src/scripts/seedAssets.js"
+  }
+}
